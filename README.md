@@ -12,7 +12,7 @@ Reading:
 
 - https://cseweb.ucsd.edu/classes/sp17/cse11-a/lecture28.html
 
-Gradescope quiz: *COMING SOON*
+Gradescope quiz: https://www.gradescope.com/courses/106159/assignments/517179
 
 Reminder to check the course web site for other deadlines:
 
